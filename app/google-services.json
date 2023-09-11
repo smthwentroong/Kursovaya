@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210039473676",
+    "project_id": "arm-kursovaya",
+    "storage_bucket": "arm-kursovaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210039473676:android:3b4ba276fb1bb8d2c1d029",
+        "android_client_info": {
+          "package_name": "com.example.kursovaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210039473676-mpn5pbgga7r38f5r9gpkmr3olcbjvlm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqV4PGVTIFMpyhvaIwnGuAmmn0vOozu0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210039473676-mpn5pbgga7r38f5r9gpkmr3olcbjvlm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
